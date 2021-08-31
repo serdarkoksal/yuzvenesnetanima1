@@ -2,7 +2,7 @@
 """
 Created on Tue May  4 14:28:11 2021
 
-@author: Zeynep
+@author: sk
 """
 #importing the required libraries
 import cv2
